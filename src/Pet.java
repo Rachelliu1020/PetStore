@@ -25,7 +25,7 @@ private remote1;
         name = "Who knows";
         age = 3;
     }
-private remote2;
+    private remote2;
     /** Convenience constructor, given species and name
      * @param newSpecies
      * @param newName */
@@ -34,7 +34,7 @@ private remote2;
         setName(newName);
         age = 3;
     }
-
+private remote3;
     /** Another Convenience constructor, given species, name and age
      * @param newSpecies
      * @param newName
