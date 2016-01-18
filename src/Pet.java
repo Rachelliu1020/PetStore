@@ -14,6 +14,7 @@ public class Pet {
     private String name;        // Name of this pet
     private int age;            // Age of this pet, in years
     private int testSAP;
+    private int change;
 
     //-----------------------------------------------------------------
     //      C o n s t r u c t o r s
