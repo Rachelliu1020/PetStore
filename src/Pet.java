@@ -26,7 +26,7 @@ public class Pet {
         name = "Who knows";
         age = 3;
     }
-
+    private int centre;
     /** Convenience constructor, given species and name
      * @param newSpecies
      * @param newName */
