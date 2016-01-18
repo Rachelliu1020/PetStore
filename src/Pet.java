@@ -15,6 +15,7 @@ public class Pet {
     private int age;            // Age of this pet, in years
     private int testSAP;
     private int change;
+    private int trymerge;
 
     //-----------------------------------------------------------------
     //      C o n s t r u c t o r s
