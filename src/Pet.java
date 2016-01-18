@@ -13,8 +13,7 @@ public class Pet {
     private String species;     // Species of this pet (dog, cat, etc)
     private String name;        // Name of this pet
     private int age;            // Age of this pet, in years
-    private int github;
-    private int remotenewchange;
+
 
     //-----------------------------------------------------------------
     //      C o n s t r u c t o r s
@@ -26,7 +25,7 @@ public class Pet {
         name = "Who knows";
         age = 3;
     }
-    private int centre5;
+
     /** Convenience constructor, given species and name
      * @param newSpecies
      * @param newName */
@@ -35,7 +34,7 @@ public class Pet {
         setName(newName);
         age = 3;
     }
-private int centre6;
+
     /** Another Convenience constructor, given species, name and age
      * @param newSpecies
      * @param newName
@@ -45,7 +44,7 @@ private int centre6;
         setName(newName);
         setAge(newAge);
     }
-private int centre7;
+
     //-----------------------------------------------------------------
     //      A c c e s s o r s
     //-----------------------------------------------------------------
