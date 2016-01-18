@@ -26,7 +26,7 @@ public class Pet {
         name = "Who knows";
         age = 3;
     }
-    private int centre2;
+    private int centre5;
     /** Convenience constructor, given species and name
      * @param newSpecies
      * @param newName */
@@ -35,7 +35,7 @@ public class Pet {
         setName(newName);
         age = 3;
     }
-private int centre3;
+private int centre6;
     /** Another Convenience constructor, given species, name and age
      * @param newSpecies
      * @param newName
