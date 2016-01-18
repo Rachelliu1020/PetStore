@@ -13,9 +13,7 @@ public class Pet {
     private String species;     // Species of this pet (dog, cat, etc)
     private String name;        // Name of this pet
     private int age;            // Age of this pet, in years
-    private int testSAP;
-    private int change;
-    private int trymerge;
+    private int github;
 
     //-----------------------------------------------------------------
     //      C o n s t r u c t o r s
