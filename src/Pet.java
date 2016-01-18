@@ -14,7 +14,7 @@ public class Pet {
     private String name;        // Name of this pet
     private int age;            // Age of this pet, in years
     private int github2332;
-    private int remotenewchange;
+    private int remotenewchange222;
 
     //-----------------------------------------------------------------
     //      C o n s t r u c t o r s
